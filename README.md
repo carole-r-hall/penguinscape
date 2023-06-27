@@ -1,5 +1,5 @@
 # penguinscape
-Code related to reconstruction of penguin colony shape from remotely-sensed data. 
+Reconstruction of penguin colony shape from remotely-sensed data. 
 
 ## Introduction to materials
 This repository is a collection of Python and R code, along with data related to reconstruction of Adélie penguin colony shape from low-resolution remotely-sensed data (in this case, the application would be 30 meter-resolution satellite imagery).
