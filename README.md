@@ -15,4 +15,4 @@ One can find the following relevant data:
 - 12 m x 12 m snapshots of annotated UAV data showing nesting coordinates. There are ten Adélie-only samples over relatively flat locations for each of four Danger Islands colonies: Beagle Island (BEAG), Brash Island (BRAS), Earle Island (EARL), and Heroina Island (HERO).
 - VHR annotations showing high-resolution colony shapes for six colonies: Cape Adare (ADAR), Berkley/Cameron Island (BERK), Brownson Island (BSON), Devil Island (DEVI), Inexpressible Island (INEX), and Possession Island (POSS).
 
-Any inquiries about the enclosed code and/or data can be made to carole.hall@stonybrook.edu.
+Please note: additional information regarding the background behind this repository's contents is currently in review and will be publically available soon. In the meantime, any inquiries about the enclosed code and/or data can be made to carole.hall@stonybrook.edu.
