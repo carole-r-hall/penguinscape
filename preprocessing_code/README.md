@@ -1,5 +1,5 @@
 # data preprocessing code
-# Author: Carole Hall
+### Author: Carole Hall
 
 This program finds the average radial distribution function for a group of files each containing a 2-D distribution of points. The data provided in this repository represent distributions 
 of Adélie penguin nests over flat areas taken from colonies located in the Danger Islands, Antarctica. 
