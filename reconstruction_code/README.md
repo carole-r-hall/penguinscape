@@ -1,5 +1,5 @@
 # Reconstruction code 
-# Author: Carole Hall
+### Author: Carole Hall
 
 This reconstruction procedure utilizes molecular dynamics to estimate a high-resolution colony shape from low-resolution satellite imagery. This code was designed to be applied to data extracted from 30 meter-resolution Landsat satellite imagery showcasing penguin colonies in Antarctica, however I strongly believe this procedure would be applicable to other colonies or natural groups of objects in satellite imagery. 
 
