@@ -44,7 +44,7 @@ empirical_rdf = []
 empirical_dists = []
 
 # extract colony RDF DATA from CSV - calculated in separate program
-with open('/Users/carolehall/Downloads/heroina_RDF.csv', newline='') as csvfile:
+with open('heroina_RDF.csv', newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         empirical_rdf.append(float(row['rdf']))
