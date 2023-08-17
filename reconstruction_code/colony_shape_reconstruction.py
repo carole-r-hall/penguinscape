@@ -105,7 +105,6 @@ pot_e = []
 # point generation -- coordinates of each pixel are kept in coordinate_organizer
 # to access a set of coordinates in pixel in row i and column j, call:
 # coordinate_organizer[i][j]
-cutoff_for_movement = 1.1 #SET CUTOFF TO 0.8 TO NOT CONSIDERED PIXELS WITH OVER 80% COVERAGE
 total_num_nests = 0
 index_tracker = 0
 flat_indexes = [[[] for i in range(width)] for j in range(height)]
