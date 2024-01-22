@@ -18,4 +18,4 @@ One can find the following relevant data:
 - The 30 m raster data found from downsampling VHR annotation data (on which the reconstruction method is tested) for each colony: ADAR, BERK, BSON, DEVI, INEX, POSS.
 - The crop extents of each colony location: ADAR, BERK, BSON, DEVI, INEX, POSS.
 
-Please note: additional information regarding the background behind this repository's contents is currently in review and will be publically available soon. In the meantime, any inquiries about the enclosed code and/or data can be made to carole.hall@stonybrook.edu.
+Please note: additional information regarding the background behind this repository's contents is currently in review and will be publically available soon. In the meantime, any inquiries about the enclosed code and/or data can be made to carole.hall@stonybrook.edu. DOI: 10.5281/zenodo.10547724.
