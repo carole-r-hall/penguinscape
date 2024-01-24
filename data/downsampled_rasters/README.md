@@ -1,4 +1,3 @@
 # downsampled rasters 
 
-The rasters contained herein are downsampled versions of the VHR annotations included in this repository. These data were downsampled to fit the 30 meter resolution of Landsat data to test our 
-ability to recover the original high-resolution shapes from this downsampled data. These VHR annotations were downsampled in R using the disagg() function from the terra library. 
+The rasters contained herein are downsampled versions of the VHR annotations included in this repository. These data were downsampled to fit the 30 meter resolution of Landsat data to test our ability to recover the original high-resolution shapes from this downsampled data. These VHR annotations were downsampled in R using the disagg() function from the terra library. Note that each colony folder contain a raster file representing colony coverage percentage in each pixel, csv files containing longitude and latitude data for each pixel from thi raster, the coverage percentage data per pixel as a csv, and the height (number of rows) and width (number of columns) of the raster. This data is necessary for the reconstruction code to run properly. 
